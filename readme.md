@@ -1,4 +1,4 @@
-# MuMuFL👍
+# MuMuFL
 
 MuMuFL: statistical Mutation-based Multiple Fault Localization to locate the faulty statements of a deep learning programs. 
 
